@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "create new homepage banneregwqw",
+      "details": "lorem ipsum",
+      "completed": true
+    },
+    {
+      "title": "argargaga",
+      "details": "argagaga",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
